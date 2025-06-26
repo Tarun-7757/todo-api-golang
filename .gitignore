@@ -1,0 +1,9 @@
+.vscode/ 
+*.log 
+*.tmp 
+__pycache__/ 
+*.pyc 
+*.exe 
+*.dll 
+*.out 
+node_modules/
