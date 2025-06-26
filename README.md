@@ -11,6 +11,7 @@ A simple RESTful API for managing todo tasks, built using Go.
 ## 📁 Project Structure
 
 todo-api-golang/
+
 ├── main.go          # Entry point
 
 ├── models/          # Data models
